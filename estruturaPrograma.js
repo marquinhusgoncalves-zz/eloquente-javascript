@@ -31,5 +31,3 @@ while (number <= 12) {
     console.log(number);
     number = number + 2;
 }
-
-mudei o nome do git
